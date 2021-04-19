@@ -10,7 +10,7 @@
 |----------------|------------------|--------------------------|-----------------------------------------------|
 | 201-322        | [Prostakkotak](https://github.com/Prostakkotak)      | Васьковский С.П.              | Back-end
 | 201-322        | [potikhanovsergey](https://github.com/potikhanovsergey)    | Потиханов С.              | Front-end
-| 201-322        | [VanCode111](https://github.com/VanCode111)       | Елисеев И. | Front-end
+| 201-322        | [VanCode111](https://github.com/VanCode111)       | Елисеев И.П | Front-end
 | 201-322        | [halaponga2](https://github.com/halaponga2)      | Лобов И.К. | Дизайнер
 | 201-322        | [GrabovyiS](https://github.com/GrabovyiS)       | Грабовый С.П. | Планировщик
 
